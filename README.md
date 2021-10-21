@@ -3,9 +3,9 @@
 
 #### Compétences évaluées : 
 
-  Construire et lire un dendogramme
-Interpréter une ACP
-Tester l’adéquation à une loi par un test statistique
+  - Construire et lire un dendogramme
+  - Interpréter une ACP
+  - Tester l’adéquation à une loi par un test statistique
 
 <br> 
 
