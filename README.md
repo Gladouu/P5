@@ -7,9 +7,7 @@
   - Interpréter une ACP
   - Tester l’adéquation à une loi par un test statistique
 
-<br> 
-
-## Notebooks : 
+#### Notebooks : 
 
 📗 ***[Notebook - Nettoyage des données](https://github.com/Gladouu/P5/blob/main/P5_02_preprocessing.ipynb)***
 
