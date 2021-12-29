@@ -9,6 +9,15 @@
 
 <br> 
 
+## Notebooks : 
+
+📗 ***[Notebook - Nettoyage des données](https://github.com/Gladouu/P5/blob/main/P5_02_preprocessing.ipynb)***
+
+📗 ***[Notebook - Analyse des données](https://github.com/Gladouu/P5/blob/main/P5_03_analysis.ipynb)***
+
+
+<br>
+
 ## Scénario : 
 
 Votre entreprise d'agroalimentaire souhaite se développer à l'international. Elle est spécialisée dans... le poulet !
